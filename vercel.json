@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://go-proxy-bingai.appapi.workers.dev"}
+    {"source": "/(.*)", "destination": "https://go-proxy-bingai.appapi.workers.dev/$1"}
   ]
 }
