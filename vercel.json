@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://plus.aivvm.com/?temporary-chat=true/$1"}
+    {"source": "/(.*)", "destination": "https://new.oaifree.com/$1"}
   ]
 }
